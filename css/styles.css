@@ -319,12 +319,13 @@ header .fa-bars {
         margin: 25px auto;
         gap: 0;
     }
+    .cont-hero .image, .cont-hero .info {
+        width: 50%;
+    } 
     .cont-hero .image {
-        width: 55%;
         margin: 0;
     }
     .cont-hero .info {
-        width: 45%;
         gap: 30px 0;
     }
 
